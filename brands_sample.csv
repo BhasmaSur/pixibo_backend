@@ -1,0 +1,33 @@
+*,,,,,,
+Eksept DCB1,,,,,,
+Size,Chest,Chest (U),Waist,Waist (U),Hip,Hip (U)
+XS,84,86,68,70,92,94
+S,88,90,72,74,96,98
+M,92,94,76,78,100,102
+L,97,99,81,83,105,107
+XL,102,104,86,88,110,112
+XXL,108,110,92,94,116,118
+Chest,Size,Too Tight,Snug Fit,Loose Fit,Too Loose,
+,S,0,2.5,0,10,
+,M,0,2.45,0,10,
+Waist,Size,Too Tight,Snug Fit,Loose Fit,Too Loose,
+,S,2.5,5,2.5,12.5,
+Hip,Size,Too Tight,Snug Fit,Loose Fit,Too Loose,
+,S,2.5,0,2.5,10,
+,L,2.5,1,2.5,100,
+*,,,,,,
+Eksept DCB2,,,,,,
+Size,Chest,Chest (U),Waist,Waist (U),Hip,Hip (U)
+XS,84,86,68,70,92,94
+S,88,90,72,74,96,98
+M,92,94,76,78,100,102
+L,97,99,81,83,105,107
+XL,102,104,86,88,110,112
+XXL,108,110,92,94,116,118
+Chest,Size,Too Tight,Snug Fit,Loose Fit,Too Loose,
+,S,0,2.5,0,10,
+Waist,Size,Too Tight,Snug Fit,Loose Fit,Too Loose,
+,S,2.5,5,0,12.5,
+Hip,Size,Too Tight,Snug Fit,Loose Fit,Too Loose,
+,S,0,2.5,2.5,10,
+*,,,,,,

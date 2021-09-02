@@ -1,0 +1,10 @@
+To run this parser , Golang is must
+
+Steps to run the program
+
+1. install Golang
+2. open terminal and go inside the pixibo folder and type
+    go run main.go -i <file_path>
+
+    e.g. go run main.go -i "brands_sample.csv"
+3. output will be stored in output.file 
